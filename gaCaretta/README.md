@@ -1,6 +1,6 @@
 # gaCaretta
 
-gaCaretta is a GA version of original [Caretta](http://bioinformatics.nl/caretta) program.
+gaCaretta is a GA version of [Caretta](http://bioinformatics.nl/caretta) program.
 
 ### Installation
 gaCaretta was tested on Linux.

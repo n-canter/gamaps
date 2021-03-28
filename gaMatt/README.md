@@ -1,9 +1,9 @@
 # gaMatt
 
-gaMatt is a GA version of original [Matt](http://matt.cs.tufts.edu/) program.
+gaMatt is a GA version of [Matt](http://matt.cs.tufts.edu/) program.
 
 ### Installation
-gaMatt was tested on Linux and requires MPI implementation installed.
+gaMatt was tested on Linux and requires MPI implementation *e.g.*, [MPICH](https://www.mpich.org/), [OpenMPI](https://www.open-mpi.org/).
 
 ### Download and gaMatt
 ```bash
