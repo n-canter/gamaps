@@ -1,0 +1,39 @@
+---
+BasedOnStyle: LLVM
+
+AlignEscapedNewlinesLeft: false
+AlignTrailingComments: true
+
+AllowAllParametersOfDeclarationOnNextLine: false
+
+# if (a) return;
+AllowShortIfStatementsOnASingleLine: false
+
+# while (true) continue;
+AllowShortLoopsOnASingleLine: false
+
+AlwaysBreakBeforeMultilineStrings: false
+AlwaysBreakTemplateDeclarations: true
+
+# If false, a function declaration’s or function definition’s parameters will
+# either all be on the same line or will have one line each.
+BinPackParameters: true
+
+DerivePointerBinding: false
+PointerBindsToType: false
+
+BreakBeforeBraces: Stroustrup
+
+MaxEmptyLinesToKeep: 2
+
+IndentCaseLabels: false
+IndentWidth: 8
+TabWidth: 8
+UseTab: Always
+
+SpaceBeforeAssignmentOperators: true
+SpaceInEmptyParentheses: false
+SpacesInParentheses: false
+
+ColumnLimit: 0
+...

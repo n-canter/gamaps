@@ -1,0 +1,8 @@
+*.o
+/bin
+/scripts
+
+GPATH
+GRTAGS
+GSYMS
+GTAGS
