@@ -5,7 +5,7 @@ gaMatt is a GA version of [Matt](http://matt.cs.tufts.edu/) program.
 ### Installation
 gaMatt was tested on Linux and requires MPI implementation *e.g.*, [MPICH](https://www.mpich.org/), [OpenMPI](https://www.open-mpi.org/).
 
-### Download and gaMatt
+### Download and compile gaMatt
 ```bash
 git clone https://github.com/n-canter/gamaps.git
 cd gamaps/gaMatt
@@ -18,7 +18,7 @@ make
 ./bin/gaMatt -g <ga_config> <input_structures>
 ```
 
-ga_config is a text file in the following format:
+`ga_config` is a text file in the following format:
 
 ```
 # fitness function, possible values: tm, matt
